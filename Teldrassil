@@ -1,5 +1,6 @@
 Author = "SpeedySaky";
 Title = "Teldrassil";
+Vendors = {{"Janna Brightmoon",3590,"Repair"},{"Keina",3589,"Sell"},{"Brannol Eaglemoon",3611,"Repair"},{"Brannol Eaglemoon",3611,"Repair"}}
 QuestOrder = {
 [1] = {"The Balance of Nature",456,"Conservator Ilthalaine",2079,{{"KillMob",2031,7},{"KillMob",1984,7}},2079,"Conservator Ilthalaine"},
 [2] = {"The Balance of Nature",457,"Conservator Ilthalaine",2079,{{"KillMob",2032,7},{"KillMob",1985,7}},2079,"Conservator Ilthalaine"},
