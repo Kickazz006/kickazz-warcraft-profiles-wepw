@@ -1,0 +1,38 @@
+Author = "SpeedySaky";
+Title = "Teldrassil";
+QuestOrder = {
+[1] = {"The Balance of Nature",456,"Conservator Ilthalaine",2079,{{"KillMob",2031,7},{"KillMob",1984,7}},2079,"Conservator Ilthalaine"},
+[2] = {"The Balance of Nature",457,"Conservator Ilthalaine",2079,{{"KillMob",2032,7},{"KillMob",1985,7}},2079,"Conservator Ilthalaine"},
+[3] = {"The Woodland Protector",458,"Melithar Staghelm",2077,{{"JustTurnIn",0,0}},1992,"Tarindrella"},
+[4] = {"The Woodland Protector",459,"Tarindrella",1992,{{"KillMobAndLoot",1988,28}},1992,"Tarindrella"},
+[5] = {"Webwood Venom",916,"Gilshalan Windwalker",2082,{{"KillMobAndLoot",1986,28}},2082,"Gilshalan Windwalker"},
+[6] = {"Webwood Egg",917,"Gilshalan Windwalker",2082,{{"GatherObject",5167,1}},2082,"Gilshalan Windwalker"},
+[7] = {"A Good Friend",4495,"Dirania Silvershine",8583,{{"JustTurnIn",0,0}},8584,"Iverron"},
+[8] = {"A Friend in Need",3519,"Iverron",8583,{{"JustTurnIn",0,0}},8583,"Dirania Silvershine"},
+[9] = {"Iverron's Antidote",3521,"Dirania Silvershine",8583,{{"GatherObject",10639,7},{"GatherObject",10641,4},{"KillMobAndLoot",1986,10}},8583,"Dirania Silvershine"},
+[10] = {"Iverron's Antidote",3522,"Dirania Silvershine",8583,{{"JustTurnIn",0,0}},8584,"Iverron"},
+[11] = {"Dolanaar Delivery",2159,"Porthannius",6780,{{"JustTurnIn",0,0}},6736,"Innkeeper Keldamyr"},
+[12] = {"Zenn's Bidding",488,"Zenn Foulhoof",2150,{{"KillMobAndLoot",2042,10},{"KillMobAndLoot",1995,10},{"KillMobAndLoot",1998,10}},2150,"Zenn Foulhoof"},
+[13]= {"Seek Redemption!",489,"Sentinel Kyra Starsong",2081,{{"GatherObject",3418,3}},2150,"Zenn Foulhoof"},
+[14] = {"Denalan's Earth",997,"Syral Bladeleaf",2083,{{"JustTurnIn",0,0}},2080,"Denalan"},
+[15] = {"A Troubling Breeze",475,"Athridas Bearmantle",2078,{{"JustTurnIn",0,0}},2107,"Gaerolas Talvethren"},
+[16] = {"Gnarlpine Corruption",476,"Gaerolas Talvethren",2107,{{"JustTurnIn",0,0}},2078,"Athridas Bearmantle"},
+[17] = {"Timberling Seeds",918,"Denalan",2080,{{"KillMobAndLoot",2022,15}},2080,"Denalan"},
+[18] = {"Timberling Sprouts",919,"Denalan",2080,{{"GatherObject",5169,12}},2080,"Denalan"},
+[19] = {"Rellian Greenspyre",922,"Denalan",2080,{{"JustTurnIn",0,0}},3517,"Rellian Greenspyre"},
+[20] = {"Tumors",923,"Rellian Greenspyre",3517,{{"KillMobAndLoot",2027,5}},3517,"Rellian Greenspyre"},
+[21] = {"Return to Denalan",922,"Rellian Greenspyre",3517,{{"JustTurnIn",0,0}},2080,"Denalan"},
+[22] = {"The Road to Darnassus",487,"Moon Priestess Amara",2151,{{"KillMob",2152,6}},2151,"Moon Priestess Amara"},
+[23] = {"The Shimmering Frond",931,"Strange Fronded Plant",6752,{{"JustTurnIn",0,0}},2080,"Denalan"},
+[24] = {"The Glowing Fruit",930,"Strange Fruited Plant",6751,{{"JustTurnIn",0,0}},2080,"Denalan"},
+[25] = {"Oakenscowl",2499,"Denalan",2080,{{"KillMobAndLoot",2166,1}},2080,"Denalan"},
+[26] = {"The Enchanted Glade",937,"Sentinel Arynia Cloudsbreak",3519,{{"KillMobAndLoot",2015,7},{"KillMobAndLoot",2017,7},{"KillMobAndLoot",2019,7},{"KillMobAndLoot",2018,7}},3518,"Sentinel Arynia Cloudsbreak"},
+[27] = {"Mist",938,"Mist",3568,{{"JustTurnIn",0,0}},3518,"Sentinel Arynia Cloudsbreak"},
+[28] = {"The Relics of Wakening",483,"Athridas Bearmantle",2078,{{"GatherObject",3405,1},{"GatherObject",3406,1},{"GatherObject",3407,1},{"GatherObject",3408,1}},2078,"Athridas Bearmantle"},
+[29] = {"Ursal the Mauler",486,"Athridas Bearmantle",2078,{{"KillMob",2039,1}},2078,"Athridas Bearmantle"},
+}
+
+
+
+
+
